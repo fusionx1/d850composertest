@@ -1,0 +1,14 @@
+uuid: 153d39d2-9c7c-47fa-8ecc-092881973036
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - greg.1.anderson@greenknowe.org
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
